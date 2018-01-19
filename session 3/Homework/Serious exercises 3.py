@@ -4,3 +4,5 @@
 # # TIẾNG VIỆT
 # # Bài tập 3 (Tùy chọn): Sửa đổi guess_my_number.py sang kịch bản ngược lại, bạn nghĩ đến một số,
 # sau đó chương trình đoán đoán, sau đó bạn nói nó đoán đúng, nhỏ hơn hay lớn hơn số bạn nghĩ
+
+Hiện e chịu chưa chắc chắn

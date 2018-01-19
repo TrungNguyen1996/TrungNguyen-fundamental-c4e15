@@ -5,5 +5,4 @@
 # # Bài tập 3 (Tùy chọn): Sửa đổi guess_my_number.py sang kịch bản ngược lại, bạn nghĩ đến một số,
 # sau đó chương trình đoán đoán, sau đó bạn nói nó đoán đúng, nhỏ hơn hay lớn hơn số bạn nghĩ
 
-Hiện e chịu thôi a, làm cái follow chạc mà ko dc
-Tiếc hôm tối thư 6 a Tuấn anh ko bao e tý nào cả, mât toi lúc ấy rùi
+Hiện e chịu thôi a, 

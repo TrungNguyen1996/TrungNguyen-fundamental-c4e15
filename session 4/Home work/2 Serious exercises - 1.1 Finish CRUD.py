@@ -14,14 +14,23 @@
 # Xử lý các trường hợp ngoại lệ (trên, thấp hơn trường hợp, chỉ số ra khỏi phạm vi) cho mình
 
 # 2.1
-# R
 shop = ["T-Shirt","Sweater"]
-ans = input("Welcome to our shop, what do you want") # nhap hang rui cho chon
-if ans == "r":  # neu an thi lam: in [] la cua cai list
+answer = input("Chào mừng bạn đến với cửa hàng, bạn cần gì nhỉ") # nhap hang rui cho chon
+if answer == "r":  # neu an thi lam: in [] la cua cai list
     print(shop)
-elif ans == "c":
-    new_item = input("Please enter your new item ???:  ")
+elif answer == "c":
+    new_item = input("Mời bạn nhập vào sản phẩm ???:  ")
     shop.append(new_item)
     print(shop)
+elif answer == "u":
+    position = int(input("Bạn muốn update vào vị trí nào"))
+    new_value = input(shop)
+    new_value = shop[update -1]
+    print(shop)
+elif answer == "d":
+    position = int(input("Bạn muốn xóa vị trí nào"))
 
-elif ans == "d":
+    shop.pop (position -1)
+    print(shop)
+    
+    Khổ ghê a huhu.

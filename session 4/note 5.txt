@@ -1,0 +1,4 @@
+Kahm 
+xem thieu kien thuc o dau,test
+no bai 2 3 cuar buoi 4 
+hoi dau * for ngam

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 sheep = [5, 7, 300, 90, 24, 50, 75]
 print('''Hello, my name is Khau Tu and these are my ship sizes
 {0}'''.format(sheep))
@@ -19,3 +20,8 @@ for i in range(month):
     sheep[k] = default_size
     print('''After shearing, here is my flock
     {0}'''.format(sheep))
+=======
+favs = ["teaching","netflix","death note"]
+print("YOur favorite thing: ")
+print(*favs,sep=", ") #
+>>>>>>> 8abc8e53cfabba275c0bbc2837ca1fec99c452f2

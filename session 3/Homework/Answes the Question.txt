@@ -1,0 +1,18 @@
+﻿1. What are the main functional differences between a while and a for?
++ while can run infinitely. statement repeatedly executes a block of statements as long as a test at the top keeps evaluating to a true value.
++ for has defined number of rep. for statement, is designed for stepping through the items in a sequence or other iterable object and running a block of code for each.
+	
+2. What’s the difference between break and continue?
++ continue skips that particular iteration & begins the next iteration
++ break breaks the loop Jumps out of the closest enclosing loop (past the entire loop statement)
+
+
+3. When is a loop’s else clause executed?
++ when it exits successfully and clause is also run if the body of the loop is never executed, as you don’t run a break in that event either; in a while loop, this happens if the test in the header is false to begin with
+
+4. How can you code a counter-based loop in Python?
++ or with a “for” loop that uses the range built-in function to generate successive integer offsets, Counter loops can be coded with a “while” statement that keeps track of the index manually.
+
+
+5. What can a range be used for in a for loop?
++ a number, a set, or a function

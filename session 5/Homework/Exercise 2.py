@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Exercise 2
 # Write a program to count number occurrences in a list, with AND without using count() function
 #
@@ -17,3 +18,9 @@ numbers = [1,6,8,1,2,1,5,6]
 
 i = int(input("Mời bạn nhập vào số nào đó"))
 print("Count for number: ", numbers.count(i))
+=======
+# Exercise 2
+# Write a program to count number occurrences in a list, with AND without using count() function
+#
+# Example:
+>>>>>>> 8abc8e53cfabba275c0bbc2837ca1fec99c452f2
